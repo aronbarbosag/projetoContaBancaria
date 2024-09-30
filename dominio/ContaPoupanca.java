@@ -1,4 +1,4 @@
-package fase05.L05Exercicio04.dominio;
+package dominio;
 
 public static class ContaPoupanca extends ContaBancaria{
 	    int dia_de_rendimento;
