@@ -1,4 +1,4 @@
-package fase05.L05Exercicio04.dominio;
+package dominio;
 
 	public static class ContaEspecial extends ContaBancaria{
 	    float limite;
